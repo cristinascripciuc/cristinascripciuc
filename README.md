@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristina</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 <img align=“right” alt=“Coding” width=“400” src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
-- 📝 I regularly write articles on [www.thechocolatebrain.com]
+- 📝 I regularly write food articles on [www.thechocolatebrain.com]
 
 
 - 💬 Ask me about **react,angular,html,css**
